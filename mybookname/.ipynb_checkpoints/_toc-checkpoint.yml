@@ -7,7 +7,7 @@ chapters:
 - file: Final_Project
 - url: https://github.com/mahmoodalikhan7/Credit_Score_Classification/blob/main/Python%20Project%20Zia.ipynb
   title: Credit_Score_Classification
-- url: https://creditscoreclassification-5o88d9utw8am5ggjyubdpz.streamlit.app/
+- url: https://creditscoreproject-g6kefzstjurmyqiwexasu7.streamlit.app/
   title: StreamLit App
 - url: https://creditscore-fastapi-78b7496457f0.herokuapp.com/
   title: ML Flow/ DagsHub Experiments
