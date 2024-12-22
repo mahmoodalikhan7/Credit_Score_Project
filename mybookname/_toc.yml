@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+chapters:
+- file: Final_Project
+- url: https://github.com/mahmoodalikhan7/Credit_Score_Classification/blob/main/Python%20Project%20Zia.ipynb
+  title: Credit_Score_Classification
+- url: https://creditscoreclassification-5o88d9utw8am5ggjyubdpz.streamlit.app/
+  title: StreamLit App
+- url: https://creditscore-fastapi-78b7496457f0.herokuapp.com/
+  title: ML Flow/ DagsHub Experiments
+- url: https://hub.docker.com/repository/docker/mahmoodalikhan21/credit-score-api/general
+  title: Deployed Model
+- url: https://drive.google.com/file/d/1d8r7b7nNMoT5ov_2NV0SRl026d4I9hyY/view?usp=drive_link
+  title: Resume
